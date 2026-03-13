@@ -1,0 +1,16 @@
+{
+  "id": "product-structure/intro",
+  "title": "产品结构设计概述",
+  "description": "产品结构设计是产品开发过程中的核心环节，涉及产品的内部构造、材料选择、工艺设计等方面。",
+  "source": "@site/docs/product-structure/intro.md",
+  "sourceDirName": "product-structure",
+  "slug": "/product-structure/intro",
+  "permalink": "/docs/product-structure/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/product-structure/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "productStructureSidebar"
+}

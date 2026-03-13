@@ -1,0 +1,16 @@
+{
+  "id": "time-management/intro",
+  "title": "时间管理概述",
+  "description": "有效的时间管理是提高工作效率、实现目标的关键。",
+  "source": "@site/docs/time-management/intro.md",
+  "sourceDirName": "time-management",
+  "slug": "/time-management/intro",
+  "permalink": "/docs/time-management/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/time-management/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "timeSidebar"
+}
